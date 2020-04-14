@@ -1,0 +1,6 @@
+C:\Users\irina\Desktop\CompressionApp\CompressionApp\obj\Debug\CompressionApp.csproj.CoreCompileInputs.cache
+C:\Users\irina\Desktop\CompressionApp\CompressionApp\CompressionApp.exe.config
+C:\Users\irina\Desktop\CompressionApp\CompressionApp\obj\Debug\CompressionApp.exe
+C:\Users\irina\Desktop\CompressionApp\CompressionApp\obj\Debug\CompressionApp.pdb
+C:\Users\irina\Desktop\CompressionApp\CompressionApp\CompressionApp.exe
+C:\Users\irina\Desktop\CompressionApp\CompressionApp\CompressionApp.pdb
